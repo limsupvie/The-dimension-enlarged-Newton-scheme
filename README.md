@@ -50,6 +50,7 @@ If you want to use `Dimension-enlarged Newton scheme` for acadamic proposes, ple
   author={Fu, Mingwei and Shi, Bin},
   journal={arXiv preprint arXiv:2602.16275},
   year={2026}
+}
 ```
   
 
